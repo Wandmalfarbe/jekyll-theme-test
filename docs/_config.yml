@@ -1,4 +1,4 @@
-remote_theme: poole/hyde
+remote_theme: pmarsceill/just-the-docs
 permalink:           pretty
 
 # Setup
@@ -6,14 +6,3 @@ title:               Eisvogel
 tagline:             A clean pandoc LaTeX template to convert your markdown files to PDF or LaTeX.
 url:                 http://wandmalfarbe.github.io/jekyll-theme-test
 baseurl:             /jekyll-theme-test/
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
-author:
-  name:              "@Wandmalfarbe"
