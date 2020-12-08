@@ -3,7 +3,7 @@ title: Required LaTeX Packages
 parent: Installation
 ...
 
-## Required LaTeX Packages
+# Required LaTeX Packages
 
 LaTeX manages addons and additional functionality in so called packages. You
 might get the following error when compiling a document with the Eisvogel
@@ -24,7 +24,7 @@ Enter file name:
 LaTeX informs you that the additional package `footnotebackref` is required to
 render the document.
 
-### Texlive
+## Texlive
 
 Eisvogel requires a full texlive distribution that can be installed by running
 `apt-get install texlive-full` in the terminal. Because `texlive-full` is very
@@ -50,7 +50,7 @@ tlmgr install adjustbox babel-german background bidi collectbox csquotes everypa
 Additional information about the different texlive packages can be found at
 this TeX-StackExchange answer: <https://tex.stackexchange.com/a/504566>
 
-### MiKTeX
+## MiKTeX
 
 If you don't want to install all missing packages manually, [MiKTeX might be
 an alternative](https://miktex.org/howto/miktex-console).

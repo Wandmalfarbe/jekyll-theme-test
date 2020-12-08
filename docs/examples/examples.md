@@ -4,9 +4,9 @@ nav_order: 4
 has_toc: false
 ...
 
-## Examples
+# Examples
 
-### Numbered Sections
+## Numbered Sections
 
 For PDFs with [numbered sections](http://pandoc.org/MANUAL.html#options-affecting-specific-writers) use the `--number-sections` or `-N` option.
 
@@ -14,7 +14,7 @@ For PDFs with [numbered sections](http://pandoc.org/MANUAL.html#options-affectin
 pandoc example.md -o example.pdf --template eisvogel --number-sections
 ```
 
-### Syntax Highlighting with Listings
+## Syntax Highlighting with Listings
 
 You can get syntax highlighting of delimited code blocks by using the LaTeX package listings with the option `--listings`. This example will produce the same syntax highlighting as in the example PDF.
 
@@ -22,7 +22,7 @@ You can get syntax highlighting of delimited code blocks by using the LaTeX pack
 pandoc example.md -o example.pdf --template eisvogel --listings
 ```
 
-### Syntax Highlighting Without Listings
+## Syntax Highlighting Without Listings
 
 The following examples show [syntax highlighting of delimited code blocks](http://pandoc.org/MANUAL.html#syntax-highlighting) without using listings. To see a list of all the supported highlight styles, type `pandoc --list-highlight-styles`.
 
@@ -42,7 +42,7 @@ pandoc example.md -o example.pdf --template eisvogel --highlight-style espresso
 pandoc example.md -o example.pdf --template eisvogel --highlight-style tango
 ```
 
-### Standalone LaTeX Document
+## Standalone LaTeX Document
 
 To produce a standalone LaTeX document for compiling with any LaTeX editor use `.tex` as an output file extension.
 
@@ -50,7 +50,7 @@ To produce a standalone LaTeX document for compiling with any LaTeX editor use `
 pandoc example.md -o example.tex --template eisvogel
 ```
 
-### Changing the Document Language
+## Changing the Document Language
 
 The default language of this template is American English. The `lang` variable identifies the main language of the document, using a code according to [BCP 47](https://tools.ietf.org/html/bcp47) (e.g. `en` or `en-GB`). For an incomplete list of the supported language codes see [the documentation for the hyph-utf8 package (Section 2)](http://mirrors.ctan.org/language/hyph-utf8/doc/generic/hyph-utf8/hyph-utf8.pdf). The following example changes the language to British English:
 
@@ -64,7 +64,7 @@ The following example changes the language to German:
 pandoc example.md -o example.pdf --template eisvogel -V lang=de
 ```
 
-### Typesetting a Book
+## Typesetting a Book
 
 To typeset a book supply the template variable `-V book` from the command line or via `book: true` in the metadata.
 
@@ -72,7 +72,7 @@ To get the correct chapter headings you need to tell pandoc that it should conve
 
 There will be one blank page before each chapter because the template is two-sided per default. So if you plan to publish your book as a PDF and don’t need a blank page you should add the class option `onesided` which can be done by supplying a template variable `-V classoption=oneside`.
 
-### Example Images
+## Example Images
 
 | A green title page | A background image on the title page |
 | :----------------: | :----------------: |
