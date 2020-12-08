@@ -1,3 +1,7 @@
+---
+title: Documentation for the Eisvogel pandoc LaTeX template
+...
+
 <img src="icon.png" align="right" height="110"/>
 
 # Eisvogel
