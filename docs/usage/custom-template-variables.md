@@ -1,6 +1,7 @@
 ---
 title: Custom Template Variables
 parent: Usage
+nav_order: 1
 ...
 
 # Custom Template Variables
