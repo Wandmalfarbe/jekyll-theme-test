@@ -1,5 +1,6 @@
 ---
 title: Installation
+has_children: true
 ...
 
 ## Installation

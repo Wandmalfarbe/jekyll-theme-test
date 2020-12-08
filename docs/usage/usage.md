@@ -1,5 +1,6 @@
 ---
 title: Usage
+has_children: true
 ...
 
 # Usage
