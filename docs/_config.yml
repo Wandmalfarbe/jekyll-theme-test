@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Eisvogel
 tagline:             A clean pandoc LaTeX template to convert your markdown files to PDF or LaTeX.
 paginate:            1
-baseurl:             "https://wandmalfarbe.github.io/jekyll-theme-test/"
+baseurl:             "http://wandmalfarbe.github.io/jekyll-theme-test/"
 
 # Assets
 #
