@@ -17,11 +17,3 @@ sass:
 # About/contact
 author:
   name:              "@Wandmalfarbe"
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "page"
-    values:
-      layout: "page"
