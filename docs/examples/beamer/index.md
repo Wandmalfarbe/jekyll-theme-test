@@ -1,5 +1,5 @@
 ---
-title: Basic Example
+title: Beamer
 parent: Examples
 ...
 
