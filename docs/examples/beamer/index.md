@@ -8,7 +8,7 @@ parent: Examples
 ## Command
 
 ``` bash
-pandoc "document.md" -o "document.pdf" --from markdown --template "../../eisvogel.tex" --listings
+pandoc "document.md" -o "document.pdf" --from markdown --to beamer --template "../../eisvogel.tex" --listings
 ```
 
 ## Preview
