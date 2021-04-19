@@ -1,6 +1,6 @@
 ---
 title: Home
-nav-oder: 1
+nav_order: 1
 ...
 
 # Eisvogel
