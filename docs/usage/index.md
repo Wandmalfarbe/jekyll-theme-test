@@ -8,7 +8,16 @@ has_toc: false
 # Usage
 {: .no_toc }
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
 {:toc}
+</details>
+
+---
 
 1.  Open the terminal and navigate to the folder where your markdown file is located.
 
