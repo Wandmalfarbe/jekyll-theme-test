@@ -7,6 +7,8 @@ has_toc: false
 
 # Installation
 
+{:toc}
+
 1.  Install pandoc from <http://pandoc.org/>. You also need to install [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Installation#Distributions).
 2.  Download the latest version of the Eisvogel template from [the release page](https://github.com/Wandmalfarbe/pandoc-latex-template/releases/latest).
 3.  Extract the downloaded ZIP archive and open the folder.
