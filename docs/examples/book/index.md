@@ -13,4 +13,6 @@ pandoc "document.md" -o "document.pdf" --from markdown --template "../../eisvoge
 
 ## Preview
 
-![](preview.png)
+[View the resulting PDF file.](document.pdf)
+
+[![](preview.png)](document.pdf)
