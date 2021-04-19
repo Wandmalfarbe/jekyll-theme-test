@@ -6,7 +6,6 @@ has_toc: false
 ...
 
 # Installation
-
 {: .no_toc }
 
 {:toc}
