@@ -13,6 +13,4 @@ pandoc "document.md" -o "document.pdf" --from markdown --template "../../eisvoge
 
 ## Preview
 
-[View the resulting PDF file.](document.pdf){: .btn }
-
 [![](preview.png)](document.pdf)
