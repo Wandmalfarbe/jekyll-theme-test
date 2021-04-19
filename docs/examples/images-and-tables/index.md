@@ -1,9 +1,9 @@
 ---
-title: Basic Example
+title: Images and Tables
 parent: Examples
 ...
 
-# Basic Example
+# Images and Tables
 
 ## Command
 

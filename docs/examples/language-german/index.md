@@ -1,11 +1,11 @@
 ---
-title: Basic Example
+title: Language German
 parent: Examples
 ...
 
 # Basic Example
 
-## Command
+## Language German
 
 ``` bash
 pandoc "document.md" -o "document.pdf" --from markdown --template "../../eisvogel.tex" --listings

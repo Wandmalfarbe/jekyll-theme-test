@@ -1,9 +1,9 @@
 ---
-title: Basic Example
+title: Language Japanese
 parent: Examples
 ...
 
-# Basic Example
+# Language Japanese
 
 ## Command
 

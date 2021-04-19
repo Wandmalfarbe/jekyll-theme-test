@@ -1,9 +1,9 @@
 ---
-title: Basic Example
+title: Language Chinese
 parent: Examples
 ...
 
-# Basic Example
+# Language Chinese
 
 ## Command
 

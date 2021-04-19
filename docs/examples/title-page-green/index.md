@@ -1,9 +1,9 @@
 ---
-title: Basic Example
+title: Title Page Green
 parent: Examples
 ...
 
-# Basic Example
+# Title Page Green
 
 ## Command
 

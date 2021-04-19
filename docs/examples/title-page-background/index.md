@@ -1,9 +1,9 @@
 ---
-title: Basic Example
+title: Title Page Background
 parent: Examples
 ...
 
-# Basic Example
+# Title Page Background
 
 ## Command
 

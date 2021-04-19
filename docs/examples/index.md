@@ -84,21 +84,3 @@ To typeset a book supply the template variable `-V book` from the command line o
 To get the correct chapter headings you need to tell pandoc that it should convert first level headings (indicated by one `#` in markdown) to chapters with the command line option `--top-level-division=chapter`. Chapter numbers start at 1. If you need to change that, specify `first-chapter` in the template variables.
 
 There will be one blank page before each chapter because the template is two-sided per default. So if you plan to publish your book as a PDF and don’t need a blank page you should add the class option `onesided` which can be done by supplying a template variable `-V classoption=oneside`.
-
-## Example Images
-
-| A green title page | A background image on the title page |
-| :----------------: | :----------------: |
-| [![A green title page](../examples/green-titlepage/green-titlepage.png)](../examples/green-titlepage/green-titlepage.pdf) | [![A background image on the title page](../examples/titlepage-background/titlepage-background.png)](../examples/titlepage-background/titlepage-background.pdf) |
-
-| images and tables | Code blocks styled without listings |
-| :---------------: | :---------------: |
-| [![images and tables](../examples/images-and-tables/images-and-tables.png)](../examples/images-and-tables/images-and-tables.pdf) | [![Code blocks styled without listings](../examples/without-listings/without-listings.png)](../examples/without-listings/without-listings.pdf) |
-
-| A book | Code blocks styled with listings |
-| :----: | :----: |
-| [![A book](../examples/book/book.png)](../examples/book/book.pdf) | [![Code blocks styled with listings](../examples/listings/listings.png)](../examples/listings/listings.pdf) |
-
-| A background images on all pages | CJK Support (when using XeLaTeX) |
-| :----: | :----: |
-| [![A background images on all pages](../examples/page-background/page-background.png)](../examples/page-background/page-background.pdf) | [![CJK Support (when using XeLaTeX)](../examples/japanese/japanese.png)](../examples/japanese/japanese.pdf) |

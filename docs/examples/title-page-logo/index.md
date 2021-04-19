@@ -1,9 +1,9 @@
 ---
-title: Basic Example
+title: Title Page Logo
 parent: Examples
 ...
 
-# Basic Example
+# Title Page Logo
 
 ## Command
 

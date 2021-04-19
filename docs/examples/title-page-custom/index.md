@@ -1,9 +1,9 @@
 ---
-title: Basic Example
+title: Title Page Custom
 parent: Examples
 ...
 
-# Basic Example
+# Title Page Custom
 
 ## Command
 
