@@ -11,7 +11,7 @@ A clean **pandoc LaTeX template** to convert your markdown files to PDF or LaTeX
 
 | A custom title page  | A basic example page |
 | :------------------: | :------------------: |
-| ![](examples/title-page-custom/preview.png)] | ![](examples/basic-example/preview.png) |
+| ![](examples/title-page-custom/preview.png) | ![](examples/basic-example/preview.png) |
 
 ## Credits
 
