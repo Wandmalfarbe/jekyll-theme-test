@@ -8,3 +8,6 @@ permalink: pretty
 
 search_enabled: false
 heading_anchors: true
+
+exclude:
+  - examples/*/document.md
