@@ -6,6 +6,9 @@ has_toc: false
 ...
 
 # Usage
+{: .no_toc }
+
+{:toc}
 
 1.  Open the terminal and navigate to the folder where your markdown file is located.
 
