@@ -3,7 +3,7 @@ title: Book
 parent: Examples
 ...
 
-# Basic Example
+# Book
 
 ## Command
 

@@ -3,7 +3,7 @@ title: Beamer
 parent: Examples
 ...
 
-# Basic Example
+# Beamer
 
 ## Command
 
