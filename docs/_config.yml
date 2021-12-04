@@ -1,4 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
+repository: pmarsceill/just-the-docs.github.io
 title: Eisvogel
 description: "A pandoc LaTeX template to convert markdown files to PDF or LaTeX."
 baseurl: "/jekyll-theme-test" # the subpath of your site, e.g. /blog
