@@ -19,6 +19,8 @@ has_toc: false
 
 ---
 
+## Getting Started
+
 1.  Open the terminal and navigate to the folder where your markdown file is located.
 
 2.  Execute the following command

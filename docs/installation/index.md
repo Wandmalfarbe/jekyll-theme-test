@@ -27,6 +27,7 @@ has_toc: false
       - Windows Vista or later: `C:\Users\USERNAME\AppData\Roaming\pandoc\templates\`
 
     If there are no folders called `templates` or `pandoc` you need to create them and put the template `eisvogel.latex` inside. You can find the default user data directory on your system by looking at the output of `pandoc --version`.
+5. To use the template follow the steps in the [Getting Started]({{ site.baseurl }}{% link usage/index.md %}#getting-started) section.
 
 ## Required LaTeX Packages
 
